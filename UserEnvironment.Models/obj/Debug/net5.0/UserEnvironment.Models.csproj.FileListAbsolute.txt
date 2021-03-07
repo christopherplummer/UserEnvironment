@@ -1,0 +1,12 @@
+C:\Projects\UserEnvironment\UserEnvironment.Models\bin\Debug\net5.0\UserEnvironment.Models.deps.json
+C:\Projects\UserEnvironment\UserEnvironment.Models\bin\Debug\net5.0\UserEnvironment.Models.dll
+C:\Projects\UserEnvironment\UserEnvironment.Models\bin\Debug\net5.0\ref\UserEnvironment.Models.dll
+C:\Projects\UserEnvironment\UserEnvironment.Models\bin\Debug\net5.0\UserEnvironment.Models.pdb
+C:\Projects\UserEnvironment\UserEnvironment.Models\obj\Debug\net5.0\UserEnvironment.Models.csprojAssemblyReference.cache
+C:\Projects\UserEnvironment\UserEnvironment.Models\obj\Debug\net5.0\UserEnvironment.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\UserEnvironment\UserEnvironment.Models\obj\Debug\net5.0\UserEnvironment.Models.AssemblyInfoInputs.cache
+C:\Projects\UserEnvironment\UserEnvironment.Models\obj\Debug\net5.0\UserEnvironment.Models.AssemblyInfo.cs
+C:\Projects\UserEnvironment\UserEnvironment.Models\obj\Debug\net5.0\UserEnvironment.Models.csproj.CoreCompileInputs.cache
+C:\Projects\UserEnvironment\UserEnvironment.Models\obj\Debug\net5.0\UserEnvironment.Models.dll
+C:\Projects\UserEnvironment\UserEnvironment.Models\obj\Debug\net5.0\ref\UserEnvironment.Models.dll
+C:\Projects\UserEnvironment\UserEnvironment.Models\obj\Debug\net5.0\UserEnvironment.Models.pdb
