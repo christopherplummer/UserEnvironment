@@ -31,7 +31,7 @@ namespace UserEnvironment.Models
 
         private void EncryptPassword()
         {
-            
+            Console.WriteLine("One day I will encrypt a password.");
         }
     }
 }
