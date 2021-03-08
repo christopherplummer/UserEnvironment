@@ -28,5 +28,10 @@ namespace UserEnvironment.Models
         public string UserName { get; private set; }
         public string Password { get; private set; }
         public Person Person { get; private set; }
+
+        private void EncryptPassword()
+        {
+            
+        }
     }
 }
